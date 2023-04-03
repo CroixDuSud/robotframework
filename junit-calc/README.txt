@@ -5,3 +5,5 @@ Calculator.java : - addSuccess(displayName = "Addition") : OK
 		  - multFailure : assertTrue non validé
 
 CalcFailure.java : - subFailure(displayName = "Substraction")
+
+Test sync github
