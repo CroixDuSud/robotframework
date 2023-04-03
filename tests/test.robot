@@ -6,6 +6,6 @@ ${string}    ma_chaine
 
 *** Test Cases ***
 
-Test
+testvar
     ${titi}    Fetch squash variable    %{HOME=toto}
     Log    ${titi}
