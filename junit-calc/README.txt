@@ -6,4 +6,4 @@ Calculator.java : - addSuccess(displayName = "Addition") : OK
 
 CalcFailure.java : - subFailure(displayName = "Substraction")
 
-Test sync github
+Test sync github2
