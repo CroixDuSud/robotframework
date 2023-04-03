@@ -6,6 +6,6 @@ ${string}    ma_chaine
 
 *** Test Cases ***
 
-Test passage variable d environnement squash
+Test
     ${titi}    Fetch squash variable    %{HOME=toto}
     Log    ${titi}
